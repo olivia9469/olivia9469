@@ -1,0 +1,13 @@
+- 👋 Hi there!
+- 🌱 I am currently a computer science student
+- 📫 How to reach me comangwanda@gmail.com
+
+<!--- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+olivia9469/olivia9469 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
